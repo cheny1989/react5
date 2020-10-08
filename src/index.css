@@ -1,13 +1,43 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  padding: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.footerCss{
+  background-color: sandybrown;
+}
+
+.bodyOfFotter{
+  display: flex;
+  padding: 5px;
+}
+
+
+.headerCss{
+  background-color: fuchsia;
+}
+
+
+.mainContent{
+  background-color: springgreen;
+}
+
+.contantCard{
+  background-color: rgb(195, 195, 248);
+  padding: 20px;
+}
+
+.sizaOfImage{
+  width: 250px;
+  border: rgb(71, 189, 173) solid 2px;
+}
+
+.QueAndAns{
+  background-color: chartreuse;
+}
+
+.styleFoodComponent{
+  background-color: cyan;
+  padding-left: 15px;
+  padding-bottom: 12px;
 }
